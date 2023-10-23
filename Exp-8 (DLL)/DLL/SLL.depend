@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1650418903 source:d:\acedemics\full_engineering_notes\3rd_sem_notes\lab\dsa_lab\executed programs\exp-7 (ssl)\sll\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<malloc.h>
+
+1650419210 source:d:\acedemics\full_engineering_notes\3rd_sem_notes\lab\dsa_lab\executed programs\exp-8 (dll)\dll\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<malloc.h>
+
